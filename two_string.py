@@ -1,2 +1,4 @@
-greeting='good' 'morning!'
+greeting='good' 
+time='afternoon'
+greeting=greeting+time+ '!'
 print(greeting)
