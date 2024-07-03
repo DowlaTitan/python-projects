@@ -1,4 +1,4 @@
-str=" python string"
+str= " python string"
 print(str[0])
 print(str[1])
 print(str[4])
