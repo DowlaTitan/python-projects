@@ -1,4 +1,4 @@
-test_message='''
+test_message ='''
 Usage: this is Test message
 -h nostname  
 -d database name
