@@ -1,4 +1,8 @@
-n1=52.3
-n2=50.6 
-n3=n2+n1 
-print(n3)
+value=input('enter a value 1')
+print(value)
+
+value2=input('enter a value 2')
+print(value2)
+
+value3=input('enter a value 3')
+print(value3)
