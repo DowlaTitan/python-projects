@@ -22,7 +22,7 @@ else:
     print("\n n2 is more are than equals to n1 ",n2)
 
 if(n1==n2):
-    print("\n both are equal ",n1==n2)
+    print("\n both are equal ",n1,n2)
 else:
-    print("\n both are not equal ",n2!=n1)
+    print("\n both are not equal ",n2,n1)
     
