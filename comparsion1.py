@@ -25,4 +25,10 @@ if(n1==n2):
     print("\n both are equal ",n1,n2)
 else:
     print("\n both are not equal ",n2,n1)
+
+    
+if(n1!=n2):
+    print("\n both are not equal ",n1,n2)
+else:
+    print("\n both are equal ",n2,n1)
     
