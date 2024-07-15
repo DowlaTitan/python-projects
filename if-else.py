@@ -1,7 +1,10 @@
-a = int(input("Enter a value: "))
-b = int(input("Enter b value: "))
-
-if a > b:
-    print("\n a is bigger:", a)
+a=int(input("enter a value " ))
+b=int(input("enter b value " ))
+if(a>b):
+    {
+print(" \n a is big", a)
+    }
 else:
-    print("\n b is bigger:", b)
+    {
+print(" \n b is big",b)
+    }
