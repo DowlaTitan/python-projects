@@ -1,7 +1,8 @@
-a = int(input("\n enter a value "))
-b = int(input("\n enter b value "))
+valid =false
 
-if (a>b):
-    print("\n a is big ")
-    else:
-    print("\n b is big ")
+while not valid:
+    user_input = input(" enter user name ")
+if len(user_input) >=5:
+    valid = true 
+
+    print("user name is valid ", user_input)
