@@ -1,5 +1,0 @@
-message = "hello this is text message"
-print(message)
-test_message='''
-Usage: mysql 
-'''
