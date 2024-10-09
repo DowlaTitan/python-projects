@@ -1,5 +1,3 @@
-# name = "aravind"
-# for letter in name:
-#     if letter == 'i':
-#         pass
-#     print(letter)    
+# area and of a traingle 
+length = int(input(" enter the length value "))
+bredth = int(input(" enter the breadth value "))
