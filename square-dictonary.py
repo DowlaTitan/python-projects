@@ -14,4 +14,5 @@ square = {1:1,2:4,3:9,4:16,5:25}
 # prints the lenth of dictonary 
 print(len(square))
 # printts elements in the order 
+
 print(sorted(square))
